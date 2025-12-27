@@ -1,0 +1,7 @@
+// Q . what does static keyword means => any variable, methods that are statici it belongs to class not instance
+// static variables
+// static methods
+// static blocks
+// Q. can static method can access non static method => no because it requires instance
+// Q. can non static method can access static method => yes because it do not neet instance 
+// Q. Advantages of static methods => (memory efficient,utility function,initialization)
